@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.0 (14790 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <node id="283002188" visible="true" version="3" changeset="21345758" timestamp="2014-03-27T14:26:53Z" user="Toliman" uid="204045" lat="51.7137071" lon="8.8148907">
+  <tag k="power" v="tower"/>
+  <tag k="ref" v="18"/>
+ </node>
+ <node id="28309928121" visible="true" version="3" changeset="21345758" timestamp="2014-03-27T14:26:53Z" user="Toliman" uid="204045" lat="51.7137071" lon="8.8148907">
+  <tag k="power" v="pole"/>
+  <tag k="ref" v="20"/>
+ </node>
+</osm>
